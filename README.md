@@ -1,6 +1,6 @@
 # Homework 2 — AI agent system (multi-agent, RAG, tools)
 
-Course submission: runnable R scripts. Run from **repository root** (parent of `06_agents`, `07_rag`, `08_function_calling`).
+Course submission: this repo contains the **full** `06_agents/`, `07_rag/`, and `08_function_calling/` trees (R/Python, labs, activities, MCP Plumber/FastAPI, data samples). Run scripts from **repository root** unless a file’s header says otherwise.
 
 ## Required GitHub links (functional)
 
