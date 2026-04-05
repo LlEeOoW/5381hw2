@@ -26,3 +26,9 @@ Course submission: this repo contains the **full** `06_agents/`, `07_rag/`, and 
 ## Data
 
 - RAG CSV: [`07_rag/data/custom_topics.csv`](07_rag/data/custom_topics.csv)
+
+## Full documentation (for Homework 2 .docx)
+
+All required sections (**System architecture**, **RAG data source**, **Tool functions**, **Technical details**, **Usage**) are in one file:
+
+- [`08_function_calling/HOMEWORK2_documentation.md`](08_function_calling/HOMEWORK2_documentation.md) — also on GitHub: [link](https://github.com/LlEeOoW/5381hw2/blob/main/08_function_calling/HOMEWORK2_documentation.md)
